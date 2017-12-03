@@ -1971,9 +1971,9 @@ body {
   text-align: center;
 }
 .cid-qCE5IP4aUI {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #b2ccd2;
 }
 .cid-qCE5IP4aUI .socicon-bg-facebook {
   background: #3e5b98;
@@ -2018,13 +2018,13 @@ body {
 .cid-qCIMqzTGPj {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr-1624x1080.jpg");
 }
 .cid-qCIMqzTGPj .title {
   margin-bottom: 2rem;
 }
 .cid-qCIMqzTGPj .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qCIMqzTGPj a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2041,6 +2041,12 @@ body {
 .cid-qCIMqzTGPj .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qCIMqzTGPj H2 {
+  color: #ffffff;
+}
+.cid-qCIMqzTGPj LABEL {
+  color: #ffffff;
 }
 .cid-qCIOPMn9xD {
   padding-top: 30px;
