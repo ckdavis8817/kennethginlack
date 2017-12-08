@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather+Sans:300,300i,400,400i,700,700i,800,800i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 
 
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1365,12 +1366,12 @@ body {
 }
 .cid-qCw3qrQ7Nz .navbar {
   padding: .5rem 0;
-  background: #465052;
+  background: #333333;
   transition: none;
   min-height: 77px;
 }
 .cid-qCw3qrQ7Nz .navbar-dropdown.bg-color.transparent.opened {
-  background: #465052;
+  background: #333333;
 }
 .cid-qCw3qrQ7Nz a {
   font-style: normal;
@@ -1448,7 +1449,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qCw3qrQ7Nz .dropdown .dropdown-menu {
-  background: #465052;
+  background: #333333;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2073,12 +2074,12 @@ body {
 }
 .cid-qCw3qrQ7Nz .navbar {
   padding: .5rem 0;
-  background: #465052;
+  background: #333333;
   transition: none;
   min-height: 77px;
 }
 .cid-qCw3qrQ7Nz .navbar-dropdown.bg-color.transparent.opened {
-  background: #465052;
+  background: #333333;
 }
 .cid-qCw3qrQ7Nz a {
   font-style: normal;
@@ -2156,7 +2157,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qCw3qrQ7Nz .dropdown .dropdown-menu {
-  background: #465052;
+  background: #333333;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2501,12 +2502,12 @@ body {
 }
 .cid-qCw3qrQ7Nz .navbar {
   padding: .5rem 0;
-  background: #465052;
+  background: #333333;
   transition: none;
   min-height: 77px;
 }
 .cid-qCw3qrQ7Nz .navbar-dropdown.bg-color.transparent.opened {
-  background: #465052;
+  background: #333333;
 }
 .cid-qCw3qrQ7Nz a {
   font-style: normal;
@@ -2584,7 +2585,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qCw3qrQ7Nz .dropdown .dropdown-menu {
-  background: #465052;
+  background: #333333;
   display: none;
   position: absolute;
   min-width: 5rem;
